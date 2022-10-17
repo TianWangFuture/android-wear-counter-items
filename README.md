@@ -2,7 +2,11 @@
 
 #在手表上中文的安卓计数器项目 Counter items in for Android wear (Chinese)
 
-#将会在10月15日前上传工程文件 The project documents will be uploaded before October 15
+#将会在11月前上传工程文件 The project documents will be uploaded before November
+
+
+
+
 
 版权所有 [2022] [TianWangfuture]
 
